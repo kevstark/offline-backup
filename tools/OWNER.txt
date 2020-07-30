@@ -1,0 +1,11 @@
+Hi!
+  
+  If found, please return to owner listed below.
+
+  While hardware outdates quickly, the contents of this drive are of immense 
+  value to me and I would appreciate your efforts to return or contact me in the 
+  event this drive is found.
+
+  Thanks in advance,
+
+  {{contact}}
